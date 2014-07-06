@@ -20,5 +20,5 @@
 *.out
 *.app
 
-./autom4te.cache/
-./autoscan.log
+autom4te.cache
+autoscan.log
