@@ -6,6 +6,7 @@ libTPP_la_CXXFLAGS = \
 	-Wall \
 	-Wextra \
 	-Werror \
+	-I. \
 	-I../include \
 	-std=c++11
 libTPP_la_LDFLAGS =

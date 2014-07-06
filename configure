@@ -595,7 +595,7 @@ PACKAGE_STRING='twitter-plus-plus 0.0.1'
 PACKAGE_BUGREPORT='masakazu.minamiyama@gmail.com'
 PACKAGE_URL=''
 
-ac_unique_file="config.h.in"
+ac_unique_file="src/TPP.cpp"
 # Factoring default headers for most tests.
 ac_includes_default="\
 #include <stdio.h>
@@ -2249,6 +2249,7 @@ ac_compiler_gnu=$ac_cv_c_compiler_gnu
 
 
 ac_config_headers="$ac_config_headers config.h"
+
 
 am__api_version='1.14'
 
